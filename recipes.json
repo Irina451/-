@@ -1,0 +1,17 @@
+{
+    "cheddar": {
+        "temperature": 32,
+        "rennet_amount": 0.02,
+        "aging_time_days": 60
+    },
+    "mozzarella": {
+        "temperature": 38,
+        "rennet_amount": 0.01,
+        "aging_time_days": 1
+    },
+    "gouda": {
+        "temperature": 35,
+        "rennet_amount": 0.015,
+        "aging_time_days": 90
+    }
+}
